@@ -1,4 +1,4 @@
-French Teaching Chatbot**
+**French Teaching Chatbot**
 
 This project is a personalized chatbot designed to help users learn French interactively.
 The chatbot uses machine translation models to translate English to French, teach vocabulary, and explain basic grammar concepts.
